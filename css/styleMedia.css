@@ -37,6 +37,12 @@
   }
 }
 
+@media screen and (max-width: 454px) {
+  .filter__menu_hidden {
+    margin-bottom: -36px;
+  }
+}
+
 @media screen and (min-width: 768px) {
   .container {
     max-width: 720px;
